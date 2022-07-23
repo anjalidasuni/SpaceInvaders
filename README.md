@@ -51,11 +51,8 @@ These are Manas's views on the project :
 > July.23 -> Let's have fun !
 
 ### Initial Thoughts
----
----
 
 ## Notes 
-
 - This is a Hobby Project meant for educational purposes and not meant for commercial usage
 - Request : Do not use the openweather-key for your project, a key serves a limited amount of
 free requests.
