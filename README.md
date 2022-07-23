@@ -1,4 +1,4 @@
-# SpaceInvaders(https://github.com/hacks-manas/SpaceInvaders/) :flying_saucer:
+# [SpaceInvaders](https://github.com/hacks-manas/SpaceInvaders/) :flying_saucer:
 Classic Space Invaders implemented in pygame
 
 # SpaceInvader v0.1 :
