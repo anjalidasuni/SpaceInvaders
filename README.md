@@ -21,7 +21,7 @@ Classic 2-D shooting game implemented in python
 > Under Development 🚧👷‍♂️
 
 ## Dev Updates Tracker
-- [] PROJECT UNDER CONSTRUCTION ON REMOTE REPOSITORY :rocket:
+- [ ] PROJECT UNDER CONSTRUCTION ON REMOTE REPOSITORY :rocket:
 > :construction_worker_man: DEVELOPMENTS AHEAD
 - [ ] v0.1 - Figma File / Game vision
 - [ ] v0.2 - Game menu 
