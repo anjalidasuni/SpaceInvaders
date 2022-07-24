@@ -15,7 +15,12 @@ Classic 2-D shooting game implemented in python
 - Will get to learn a lot about UI/UX development 
 
 ## Demo 
+
+### Concept Art 
 > Under Development 🚧👷‍♂️
+
+![concept_menu](https://raw.githubusercontent.com/hacks-manas/SpaceInvaders/main/assets/readme/images/concept_menu.png)
+![concept_settings](https://raw.githubusercontent.com/hacks-manas/SpaceInvaders/main/assets/readme/images/concept_settings.png)
 
 ## Usage
 > Under Development 🚧👷‍♂️
