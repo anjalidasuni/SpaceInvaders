@@ -14,15 +14,22 @@ Features :
 
 ## Concept Art 
 
-![concept_menu](assets/readme/images/concept_menu.png)
-![concept_settings](assets/readme/images/concept_setting.png)
+![Menu](assets/readme/images/concept_menu.png)
+
+![Settings](assets/readme/images/concept_setting.png)
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="">
+    <source src="assets/readme/cast/demo.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Usage
 > Under Development 🚧👷‍♂️
 
 ## Dev Updates Tracker
 > :construction_worker_man: DEVELOPMENTS AHEAD
-- [ ] v0.1 - Figma File / Game vision
+- [x] v0.1 - Figma File / Game vision
 - [ ] v0.2 - Game menu 
 - [ ] v0.3 - Settings and rendering
   - [ ] v0.3.3 - Game Assets : player, enemies, background (arena) 
