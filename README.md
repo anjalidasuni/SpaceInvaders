@@ -18,12 +18,6 @@ Features :
 
 ![Settings](assets/readme/images/concept_setting.png)
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="">
-    <source src="assets/readme/cast/demo.mp4" type="video/mp4">
-  </video>
-</figure>
-
 ## Usage
 > Under Development 🚧👷‍♂️
 
