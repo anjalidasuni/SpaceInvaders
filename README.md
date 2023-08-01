@@ -1,4 +1,4 @@
-# [AttackOnUranus](github.com/manaspz/AttackOnUranus)
+# [AttackOnUranus](https://github.com/manaspz/AttackOnUranus)
 > Under Development 🚧👷‍♂️
 
 An old classic game implementation using pygame.
@@ -49,6 +49,6 @@ See the LICENSE file for licensing details and copyright.
 Project Owner : [Manas](mailto:reach_manas@outlook.com)
 
 ## List of Contributors
-- Artwork : [Anjali](github.com/anjalidasuni)
-- Code : [Manas](github.com/manaspz)
+- Artwork : [Anjali](https://github.com/anjalidasuni)
+- Code : [Manas](https://github.com/manaspz)
 
