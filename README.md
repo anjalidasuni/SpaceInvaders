@@ -18,6 +18,12 @@ Features :
 
 ![Settings](assets/readme/images/concept_setting.png)
 
+### Beta version images
+
+![v0.1b](assets/readme//images/0.1b/1.png)
+
+![v0.1b](assets/readme/images/0.1b/2.png)
+
 ## Usage
 > Under Development 🚧👷‍♂️
 
@@ -52,3 +58,5 @@ Project Owner : [Manas](mailto:reach_manas@outlook.com)
 - Artwork : [Anjali](https://github.com/anjalidasuni)
 - Code : [Manas](https://github.com/manaspz)
 
+## References
+[Link1](https://www.youtube.com/watch?v=a5JWrd7Y_14)
