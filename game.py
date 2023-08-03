@@ -26,7 +26,6 @@ class Game():
             self.display.fill(self.BLACK)
             self.draw_text('Game Start !', 20,
                            self.DISPLAY_W/2, self.DISPLAY_H/2)
-            def 
             self.window.blit(self.display, (0, 0))
             pygame.display.update()
             self.reset_keys()
